@@ -1,0 +1,535 @@
+Error in clean_source_code for file Preprocessing/data/Clean/0xf6d9979499491c1c0c9ef518860f4476c1cd551a.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xf6d9979499491c1c0c9ef518860f4476c1cd551a.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x908262de0366e42d029b0518d5276762c92b21e1.sol: Object of type VariableDeclarationContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0x908262de0366e42d029b0518d5276762c92b21e1.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xa503f99b58badc9c4b647d7dbf3aa4f6c29d4415.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xd668dab892f1b702a6b9ee01342508b14d4e62c5.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0xffcc30dad3570b97a3d24cca0333cac4cef5dbaf.sol: Object of type VariableDeclarationContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0xffcc30dad3570b97a3d24cca0333cac4cef5dbaf.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x144bf2bbc61a5ae867d7e1fd603015df7f6d4fb6.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x144bf2bbc61a5ae867d7e1fd603015df7f6d4fb6.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x347038bab5c32e619d3d3aaeb05d408afc1671a9.sol: Object of type VariableDeclarationContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0x347038bab5c32e619d3d3aaeb05d408afc1671a9.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x4ed65e408439a7f6459b5cfbd364f373bd6ed5f7.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x4ed65e408439a7f6459b5cfbd364f373bd6ed5f7.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xba5a6e8bbcda99932e86a0aa3f87ebdbe4b20c28.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0xc4216d17a72bd49e404fe396bb93c9cd8cf3e881.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xc4216d17a72bd49e404fe396bb93c9cd8cf3e881.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0xc0950ee7568e1ab93c6784ddcaa9b590239eeec9.sol: 'NoneType' object has no attribute 'getText'
+Error in format_source_code for file Preprocessing/data/Clean/0xc0950ee7568e1ab93c6784ddcaa9b590239eeec9.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xd23043ce917ac39309f49dba82f264994d3ade76.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xe05538f120a112e912d31e69b1dc0543ce668caf.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xc35aaea6dd561a9976e1745a22f8cc5a762354bb.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xf4f16983bfbceef567270c235e0cb964e4d42d77.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0x9e78ab50ddb57334c73f0475c0c5cf33417f238a.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0xee886cd207bb98fb1a886ac2dbed7d3eb83786d0.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xee886cd207bb98fb1a886ac2dbed7d3eb83786d0.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x20b1bc618f79d9977b7cce3f0523128178ea6a7b.sol: Object of type VariableDeclarationContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0x20b1bc618f79d9977b7cce3f0523128178ea6a7b.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xa79b61c095aa277743f1789dedc6d259b467cb86.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xd1ca2d46f876395e8c6c510caaa93ee70c3b0028.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x96e9ace417632353da8133f8471769c796641c30.sol: Object of type IdentifierContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0x96e9ace417632353da8133f8471769c796641c30.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xeb6985acd6d0cbff60b88032b0b29ac1d9d66a1b.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0xfbd9986b21fbc0d718d3999a640fe41391b5694d.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xfbd9986b21fbc0d718d3999a640fe41391b5694d.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0xe8e506306ddb78ee38c9b0d86c257bd97c2536b3.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xe8e506306ddb78ee38c9b0d86c257bd97c2536b3.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x331d077518216c07c87f4f18ba64cd384c411f84.sol: Object of type IdentifierContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0x331d077518216c07c87f4f18ba64cd384c411f84.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x3bb2bb5c6c9c9b7f4ef430b47dc7e026310042ea.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x3bb2bb5c6c9c9b7f4ef430b47dc7e026310042ea.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xd8c7e5883a86cb467639fcc6bf240e22b5f05382.sol: ''
+Error in read_input_file for file Preprocessing/data/Clean/0xd5a3a5f35e8db7740ff644752bce389fc958d5c1.sol: 'charmap' codec can't decode byte 0x81 in position 48851: character maps to <undefined>
+Error in clean_source_code for file Preprocessing/data/Clean/0xd5a3a5f35e8db7740ff644752bce389fc958d5c1.sol: expected string or bytes-like object
+Error in format_source_code for file Preprocessing/data/Clean/0xd5a3a5f35e8db7740ff644752bce389fc958d5c1.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0x2eb1e8fd394222df25638cfa8f0e5e7998a9dc1f.sol: unhashable type: 'dict'
+Error in clean_source_code for file Preprocessing/data/Clean/0xe3ca191136e586b49a2e76a761c3c38cdecf574d.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xe3ca191136e586b49a2e76a761c3c38cdecf574d.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0x9eec65e5b998db6845321baa915ec3338b1a469b.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xf23444084c75b15d76414633abb003d855df4605.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xf798cfff0cb61904d16d91f2cfd553f1147be0b2.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xcb6543e00067c096f10fe76c2effbf1d4c171dcf.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xabfaedd7f26ccee1490f9a030008786f17ff88fc.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xc5af5f868eff2f7cc49d7be5362c505bd5bec06a.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x30bda231dbfa0f79b3b3678b2c6d4bae31055ad1.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x30bda231dbfa0f79b3b3678b2c6d4bae31055ad1.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xac850fcb3148db9ae9d7823e98d88c79dacd84ef.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xe278b85a36f6b370347d69fb4744947e2965c058.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x54bf24e1070784d7f0760095932b47ce55eb3a91.sol: Object of type VariableDeclarationContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0x54bf24e1070784d7f0760095932b47ce55eb3a91.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xbcedc2e888e603d6fe6e15b797aa1c42ecf644f2.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0xf6d9979499491c1c0c9ef518860f4476c1cd551a.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xf6d9979499491c1c0c9ef518860f4476c1cd551a.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x908262de0366e42d029b0518d5276762c92b21e1.sol: Object of type VariableDeclarationContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0x908262de0366e42d029b0518d5276762c92b21e1.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xa503f99b58badc9c4b647d7dbf3aa4f6c29d4415.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xd668dab892f1b702a6b9ee01342508b14d4e62c5.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0xffcc30dad3570b97a3d24cca0333cac4cef5dbaf.sol: Object of type VariableDeclarationContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0xffcc30dad3570b97a3d24cca0333cac4cef5dbaf.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x144bf2bbc61a5ae867d7e1fd603015df7f6d4fb6.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x144bf2bbc61a5ae867d7e1fd603015df7f6d4fb6.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x347038bab5c32e619d3d3aaeb05d408afc1671a9.sol: Object of type VariableDeclarationContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0x347038bab5c32e619d3d3aaeb05d408afc1671a9.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x4ed65e408439a7f6459b5cfbd364f373bd6ed5f7.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x4ed65e408439a7f6459b5cfbd364f373bd6ed5f7.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xba5a6e8bbcda99932e86a0aa3f87ebdbe4b20c28.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0xc4216d17a72bd49e404fe396bb93c9cd8cf3e881.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xc4216d17a72bd49e404fe396bb93c9cd8cf3e881.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0xc0950ee7568e1ab93c6784ddcaa9b590239eeec9.sol: 'NoneType' object has no attribute 'getText'
+Error in format_source_code for file Preprocessing/data/Clean/0xc0950ee7568e1ab93c6784ddcaa9b590239eeec9.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xd23043ce917ac39309f49dba82f264994d3ade76.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xe05538f120a112e912d31e69b1dc0543ce668caf.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xc35aaea6dd561a9976e1745a22f8cc5a762354bb.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xf4f16983bfbceef567270c235e0cb964e4d42d77.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0x9e78ab50ddb57334c73f0475c0c5cf33417f238a.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0xee886cd207bb98fb1a886ac2dbed7d3eb83786d0.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xee886cd207bb98fb1a886ac2dbed7d3eb83786d0.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x20b1bc618f79d9977b7cce3f0523128178ea6a7b.sol: Object of type VariableDeclarationContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0x20b1bc618f79d9977b7cce3f0523128178ea6a7b.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xa79b61c095aa277743f1789dedc6d259b467cb86.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xd1ca2d46f876395e8c6c510caaa93ee70c3b0028.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x96e9ace417632353da8133f8471769c796641c30.sol: Object of type IdentifierContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0x96e9ace417632353da8133f8471769c796641c30.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xeb6985acd6d0cbff60b88032b0b29ac1d9d66a1b.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0xfbd9986b21fbc0d718d3999a640fe41391b5694d.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xfbd9986b21fbc0d718d3999a640fe41391b5694d.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0xe8e506306ddb78ee38c9b0d86c257bd97c2536b3.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xe8e506306ddb78ee38c9b0d86c257bd97c2536b3.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x331d077518216c07c87f4f18ba64cd384c411f84.sol: Object of type IdentifierContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0x331d077518216c07c87f4f18ba64cd384c411f84.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x3bb2bb5c6c9c9b7f4ef430b47dc7e026310042ea.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x3bb2bb5c6c9c9b7f4ef430b47dc7e026310042ea.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xd8c7e5883a86cb467639fcc6bf240e22b5f05382.sol: ''
+Error in read_input_file for file Preprocessing/data/Clean/0xd5a3a5f35e8db7740ff644752bce389fc958d5c1.sol: 'charmap' codec can't decode byte 0x81 in position 48851: character maps to <undefined>
+Error in clean_source_code for file Preprocessing/data/Clean/0xd5a3a5f35e8db7740ff644752bce389fc958d5c1.sol: expected string or bytes-like object
+Error in format_source_code for file Preprocessing/data/Clean/0xd5a3a5f35e8db7740ff644752bce389fc958d5c1.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0x2eb1e8fd394222df25638cfa8f0e5e7998a9dc1f.sol: unhashable type: 'dict'
+Error in clean_source_code for file Preprocessing/data/Clean/0xe3ca191136e586b49a2e76a761c3c38cdecf574d.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xe3ca191136e586b49a2e76a761c3c38cdecf574d.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0x9eec65e5b998db6845321baa915ec3338b1a469b.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xf23444084c75b15d76414633abb003d855df4605.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xf798cfff0cb61904d16d91f2cfd553f1147be0b2.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xcb6543e00067c096f10fe76c2effbf1d4c171dcf.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xabfaedd7f26ccee1490f9a030008786f17ff88fc.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xc5af5f868eff2f7cc49d7be5362c505bd5bec06a.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x30bda231dbfa0f79b3b3678b2c6d4bae31055ad1.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x30bda231dbfa0f79b3b3678b2c6d4bae31055ad1.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xac850fcb3148db9ae9d7823e98d88c79dacd84ef.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xe278b85a36f6b370347d69fb4744947e2965c058.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x54bf24e1070784d7f0760095932b47ce55eb3a91.sol: Object of type VariableDeclarationContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0x54bf24e1070784d7f0760095932b47ce55eb3a91.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xbcedc2e888e603d6fe6e15b797aa1c42ecf644f2.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0xec200345f7e2991bcead2d299902e1380f902dca.sol: 'Timed Out'
+Error in format_source_code for file Preprocessing/data/Clean/0xec200345f7e2991bcead2d299902e1380f902dca.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x580f18c090914eb9edbb3d6a810c9789a91c7ba4.sol: 'NoneType' object is not subscriptable
+Error in format_source_code for file Preprocessing/data/Clean/0x580f18c090914eb9edbb3d6a810c9789a91c7ba4.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xce8d17cd4d246905a2f7826f6ddb7effcaf7d16f.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x466f39a5fd8d1bd54ea7e82975177c0f00c68492.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x466f39a5fd8d1bd54ea7e82975177c0f00c68492.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0xb0f94af0cfccc76113bb5ba2c2d89d56221b18a5.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xb0f94af0cfccc76113bb5ba2c2d89d56221b18a5.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x58978e8caccf56fadaa80ef52f5c684045306839.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x58978e8caccf56fadaa80ef52f5c684045306839.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x4ab274fc3a81b300a0016b3805d9b94c81fa54d2.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x4ab274fc3a81b300a0016b3805d9b94c81fa54d2.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xd2ade648d8bc4fc89dc763ae1984d00b611b0c4c.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xd8811b4d7e19f98cb476d80f1231f9708acb5b08.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x8a772004af0b8fca5e7093c6f277ba7b0e8fa97a.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x8a772004af0b8fca5e7093c6f277ba7b0e8fa97a.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0xb4921b74c089a8029ecd170e8edb2fc95425c20d.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xb4921b74c089a8029ecd170e8edb2fc95425c20d.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xf8d7e96b41a64818aa451257f6a8937caf6380ae.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0xf5dce57282a584d2746faf1593d3121fcac444dc.sol: Object of type VariableDeclarationContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0xf5dce57282a584d2746faf1593d3121fcac444dc.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x12345678979f29ebc99e00bdc5693ddea564ca80.sol: Object of type VariableDeclarationContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0x12345678979f29ebc99e00bdc5693ddea564ca80.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x3e72548c1535beadcdf084ec13fd7850c49050ed.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x3e72548c1535beadcdf084ec13fd7850c49050ed.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xcb020d277fae7ae15acde57f4f68be57fe698c43.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x787f552bdc17332c98aa360748884513e3cb401a.sol: 'Timed Out'
+Error in format_source_code for file Preprocessing/data/Clean/0x787f552bdc17332c98aa360748884513e3cb401a.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x27c41d20014fa87291006d02ddd81b2128039bd7.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x27c41d20014fa87291006d02ddd81b2128039bd7.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0xae42990ad29747c9ab0c16098b8c5393e53c6abe.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xae42990ad29747c9ab0c16098b8c5393e53c6abe.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xee64bfd5676f7338c8e892c67e98341932efd3c7.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x6a3120d8a66fe96eb260cce4b6da02e7835b8426.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x6a3120d8a66fe96eb260cce4b6da02e7835b8426.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x929c0d8bba1e0c2734efc298ffe36fda199d2ac3.sol: Object of type VariableDeclarationContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0x929c0d8bba1e0c2734efc298ffe36fda199d2ac3.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xcbbc0fcedccb440b9ef748a8df9db5ba21a28c60.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xe1d528e294e835329a461d8b398a82e7323641c8.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x66230ca3603e071c942f9c1c8824be91c91f3a90.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x66230ca3603e071c942f9c1c8824be91c91f3a90.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0xd43cbd8a74535327a8a196ea36cd44fc799ca289.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xd43cbd8a74535327a8a196ea36cd44fc799ca289.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xd9d4a7ca154fe137c808f7eedbe24b639b7af5a6.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xc959847aca74459d14e9a1273c3a92ff517a93b3.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xe77ee2c7d16482bee0da9ca280e58dd0186fe234.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0xd6e33c11cff866162787b7198030aac101a61f29.sol: Object of type VariableDeclarationContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0xd6e33c11cff866162787b7198030aac101a61f29.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x50491518707b238f91981849a6f241c77f948fc8.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x50491518707b238f91981849a6f241c77f948fc8.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xa0a4a2af46af4cf37eacc495eedcae269ef2720e.sol: unhashable type: 'dict'
+Error in format_source_code for file Preprocessing/data/Clean/0xf02ee4842a13bd966606702101c96994303d720d.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xd68fbc1bde2d9ee90a19340685ba43bc3477f49e.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x7ec0a611e7d491fbeef62dbebbdb3e65e019bf9b.sol: Object of type VariableDeclarationContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0x7ec0a611e7d491fbeef62dbebbdb3e65e019bf9b.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xdf3bb5a2ddc9a1182fa4bfa4b9207e4a80af1bab.sol: ''
+Error in read_input_file for file Preprocessing/data/Clean/0x54bda709fed875224eae569bb6817d96ef7ed9ad.sol: 'charmap' codec can't decode byte 0x81 in position 6832: character maps to <undefined>
+Error in clean_source_code for file Preprocessing/data/Clean/0x54bda709fed875224eae569bb6817d96ef7ed9ad.sol: expected string or bytes-like object
+Error in format_source_code for file Preprocessing/data/Clean/0x54bda709fed875224eae569bb6817d96ef7ed9ad.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xb0035b4edb8b2c907531fdcb204ffb52c4b4d8ed.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x9ce63a4e69de34844e340fc541d82db9506287bc.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x9ce63a4e69de34844e340fc541d82db9506287bc.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xc0a47dfe034b400b47bdad5fecda2621de6c4d95.sol: unhashable type: 'dict'
+Error in clean_source_code for file Preprocessing/data/Clean/0x5f0281910af44bfb5fc7e86a404d0304b0e042f1.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x5f0281910af44bfb5fc7e86a404d0304b0e042f1.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xe75fa140f7c05077e05ffa0a9db227e32c80d5da.sol: unhashable type: 'dict'
+Error in clean_source_code for file Preprocessing/data/Clean/0xeeb464d68871dff68efc9b7a3982736ac2d27459.sol: 'Timed Out'
+Error in format_source_code for file Preprocessing/data/Clean/0xeeb464d68871dff68efc9b7a3982736ac2d27459.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x943bbeef41460a3f0f3ac7f7a062128ad0ba9cb1.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x943bbeef41460a3f0f3ac7f7a062128ad0ba9cb1.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x570f5f99b4943edd9ee59776e9d3d0dba955f8c4.sol: 'NoneType' object has no attribute 'getText'
+Error in format_source_code for file Preprocessing/data/Clean/0x570f5f99b4943edd9ee59776e9d3d0dba955f8c4.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x276c5c6ca8507ed7bac085fc9b9521f4f54b58d3.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x276c5c6ca8507ed7bac085fc9b9521f4f54b58d3.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xc30affb2fdaf999bdd7ea205875b3fcad3da8d51.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xdf4e7f220f913f58ac7001808c25383daafc8995.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xf70e431c0e077e794e202b7e2a3da03a394fa0fb.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x01a7018e6d1fde8a68d12f59b6532fb523b6259d.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x01a7018e6d1fde8a68d12f59b6532fb523b6259d.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0xa3cd2dd81c0115d801282f1711e9656ae2770566.sol: Object of type VariableDeclarationContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0xa3cd2dd81c0115d801282f1711e9656ae2770566.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x4f833a24e1f95d70f028921e27040ca56e09ab0b.sol: 'Timed Out'
+Error in format_source_code for file Preprocessing/data/Clean/0x4f833a24e1f95d70f028921e27040ca56e09ab0b.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xf6e8c835d43895cbf8cba18bdfcb348d7fd2cc58.sol: unhashable type: 'dict'
+Error in clean_source_code for file Preprocessing/data/Clean/0x8d7b6fb1523f04e644085e14d5e49b1c6278c92e.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x8d7b6fb1523f04e644085e14d5e49b1c6278c92e.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0xb57acd47240599d0c68f14892dd05441af67e2d3.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xb57acd47240599d0c68f14892dd05441af67e2d3.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xa0cc94083c43a027071f6ccaee7251fbd818b7c6.sol: unhashable type: 'dict'
+Error in clean_source_code for file Preprocessing/data/Clean/0x6e7f987907320630b7880eecc26b17c0d9afa7b4.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x6e7f987907320630b7880eecc26b17c0d9afa7b4.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xfd61352232157815cf7b71045557192bf0ce1884.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xced3f3f9e95831312e61b82c8395f74a4d51865d.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xbdc18219ebb537557dc0c78b119b5659c575666f.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0xed6ac8de7c7ca7e3a22952e09c2a2a1232ddef9a.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xed6ac8de7c7ca7e3a22952e09c2a2a1232ddef9a.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xb54a38a748c55a4e4c1b5aac6f56d6bf86e9cff1.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xd99298985902c9a69bf4c8a0895fa10721204ecc.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x18a672e11d637fffadccc99b152f4895da069601.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x18a672e11d637fffadccc99b152f4895da069601.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xd7b4a7d2bb0ffa29a7d2f17cd6b7e176c48060a6.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xb1e75d543ec0382370f7274dd830850a28c23095.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xdc629c43ec3a80274a058d7fbfe66aad512779d7.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xc937f5027d47250fa2df8cbf21f6f88e98817845.sol: ''
+Error in read_input_file for file Preprocessing/data/Clean/0xe0b7927c4af23765cb51314a0e0521a9645f0e2a.sol: 'charmap' codec can't decode byte 0x81 in position 7760: character maps to <undefined>
+Error in clean_source_code for file Preprocessing/data/Clean/0xe0b7927c4af23765cb51314a0e0521a9645f0e2a.sol: expected string or bytes-like object
+Error in format_source_code for file Preprocessing/data/Clean/0xe0b7927c4af23765cb51314a0e0521a9645f0e2a.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xcc69d7074c45cf464295f69a85f40ce11ba74069.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xa87f4c9399b9c785add3e28fe76596e3dba59612.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0x9f7c7ec1d32262911c19b257841eda5d0ffaaf5a.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0x44d2142f6f3686c5ca7dbdd7c9d8882c630a0b86.sol: unhashable type: 'dict'
+Error in format_source_code for file Preprocessing/data/Clean/0xc6c2bd942270939a57e97bf831fccccf8468bde8.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0xb5232102e71a7ff376ebdeae59e19d031cbe30af.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xb5232102e71a7ff376ebdeae59e19d031cbe30af.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0xb24d47364163f909e64cf2cf7788d22c51cea851.sol: 'Timed Out'
+Error in format_source_code for file Preprocessing/data/Clean/0xb24d47364163f909e64cf2cf7788d22c51cea851.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xfa0f26d2334764ce9f9582d8ad0514b5712589cf.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0xc609b80c81d690b2ec39f70a5638fff8902a1d89.sol: Object of type VariableDeclarationContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0xc609b80c81d690b2ec39f70a5638fff8902a1d89.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0xf2b7fc7782dbf37bf964325fadaf5d91ec37221e.sol: 'Timed Out'
+Error in format_source_code for file Preprocessing/data/Clean/0xf2b7fc7782dbf37bf964325fadaf5d91ec37221e.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xc3f953d1d9c0117f0988a16f2eda8641467e0b6d.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xe5a3229ccb22b6484594973a03a3851dcd948756.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xe06d27b95616cd9922a4af2ee95f6802b7e08a9a.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xe8d1617a07325c9d83e7e12b859a32d9b823cbb6.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x25cdc41bf2c88e0b6ece3b922eb74c7169cd3df4.sol: Object of type IdentifierContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0x25cdc41bf2c88e0b6ece3b922eb74c7169cd3df4.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xb96f547da042737c95d7f9397cd86068d0a817a8.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0xc064f10ad2249ac4294aaf89cb762253c601241e.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xc064f10ad2249ac4294aaf89cb762253c601241e.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0x9aff59357b734ed5ccacdc94f1a5fc758782685d.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xc7f4d43b6970db45c3461d20295da064b46becfd.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xcfa8fa17f60d2b97104878dba2d461d10d8fdb78.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xd4ca2468e071947427ddc96b3636aad46d6e8bb2.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x05240da139d30034eaae15737610bfbe68b97910.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x05240da139d30034eaae15737610bfbe68b97910.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0xc79a463d50dc55d3ab7f40ff847febc4777349d2.sol: 'NoneType' object has no attribute 'getText'
+Error in format_source_code for file Preprocessing/data/Clean/0xc79a463d50dc55d3ab7f40ff847febc4777349d2.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0xd71925058c255a991dd7a0fa8c100b447fd9db85.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xd71925058c255a991dd7a0fa8c100b447fd9db85.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xc94da9cc3b06ed8467e25993c43c322925ebd9d6.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0xfb9393345710c5a9fe7c3a856a5d9a5c725f669f.sol: 'NoneType' object has no attribute 'getText'
+Error in format_source_code for file Preprocessing/data/Clean/0xfb9393345710c5a9fe7c3a856a5d9a5c725f669f.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xbbf0ae14af89b4f602ce47f157c8ed622b0bb7c1.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0xd05d56acd892f33010d93ddf6d9593511b618946.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xd05d56acd892f33010d93ddf6d9593511b618946.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xa7018fe1a8cae53b22473aeff8cdf98214f1b3bc.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x815a46107e5ee2291a76274dc879ce947a3f0850.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x815a46107e5ee2291a76274dc879ce947a3f0850.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x87e093f4a39bc0f486f59e45af64d2d669d61b5b.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x87e093f4a39bc0f486f59e45af64d2d669d61b5b.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0x9c3e7e016389661473ac64f4c37f5f7f2955e499.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x3da62e9f68ee89fe8cedf8719755c679e596829c.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x3da62e9f68ee89fe8cedf8719755c679e596829c.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x97680599b29491df74c15ad129c635d9ebaa03b8.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x97680599b29491df74c15ad129c635d9ebaa03b8.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xdf61756a3f3f97e0bc6b8df9caebf8c44f548541.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0xef6a9a21fe327aeacc8f685e448e21512454d4bc.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xef6a9a21fe327aeacc8f685e448e21512454d4bc.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0xabbb6bebfa05aa13e908eaa492bd7a8343760477.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xabbb6bebfa05aa13e908eaa492bd7a8343760477.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xa62621a592bf8ec23718e5593c2d668327381648.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x8cdd0cd56ae24422382c4a6ffef382732f43fe4c.sol: Object of type VariableDeclarationContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0x8cdd0cd56ae24422382c4a6ffef382732f43fe4c.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0xb6db69e99f7e3ccb352fabde7d98a8fae0de4297.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xb6db69e99f7e3ccb352fabde7d98a8fae0de4297.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x2fef3d3f14673af82f59fc3367c50d02f1483b05.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x2fef3d3f14673af82f59fc3367c50d02f1483b05.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x293c008e3060746f728ea59565b7a33dc68802be.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x293c008e3060746f728ea59565b7a33dc68802be.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x1ce00ddca2854ff2ddc7962575c49d2ba9c1243a.sol: Object of type IdentifierContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0x1ce00ddca2854ff2ddc7962575c49d2ba9c1243a.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xa061161b79785b08dfd6e4d364ab8276b6cddc9f.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x75f398d5b9e92d17ee307268c28779da26508f54.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x75f398d5b9e92d17ee307268c28779da26508f54.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xc02246bad7660065ca3148c27e73265d5656dace.sol: ''
+Error in clean_source_code for file Preprocessing/data/vulnerable/0xa2cece15277be7000a194cf3db5d159d4d5bb98b.sol: Object of type IdentifierContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/vulnerable/0xa2cece15277be7000a194cf3db5d159d4d5bb98b.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x0acd41b983a4844e3397e5048a55c0a0709d53f8.sol: 'NoneType' object has no attribute 'line'
+Error in format_source_code for file Preprocessing/data/vulnerable/0x0acd41b983a4844e3397e5048a55c0a0709d53f8.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x1d77340d3819007bbfd7fdd37c22bd3b5c311350.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0x1d77340d3819007bbfd7fdd37c22bd3b5c311350.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/vulnerable/0x7fccadee21660425fdec86029b6362845ffc052c.sol: ''
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x1c68f4f35ac5239650333d291e6ce7f841149937.sol: expected comma
+Error in format_source_code for file Preprocessing/data/vulnerable/0x1c68f4f35ac5239650333d291e6ce7f841149937.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x2ef76694fbfd691141d83f921a5ba710525de9b0.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0x2ef76694fbfd691141d83f921a5ba710525de9b0.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0xfa2632a88bd0c11535a38f98a98db8251ccbaa9e.sol: unrecognized expression
+Error in format_source_code for file Preprocessing/data/vulnerable/0xfa2632a88bd0c11535a38f98a98db8251ccbaa9e.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/vulnerable/0x8e186375e2c1cf0fb397c91732c5c78291d818c4.sol: ''
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x60bf91ac87fee5a78c28f7b67701fbcfa79c18ec.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0x60bf91ac87fee5a78c28f7b67701fbcfa79c18ec.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x181a63746d3adcf356cbc73ace22832ffbb1ee5a.sol: 'NoneType' object has no attribute 'getText'
+Error in format_source_code for file Preprocessing/data/vulnerable/0x181a63746d3adcf356cbc73ace22832ffbb1ee5a.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0xee89ba435b69d364dd2adb83bef1764f471c48e1.sol: expected comma
+Error in format_source_code for file Preprocessing/data/vulnerable/0xee89ba435b69d364dd2adb83bef1764f471c48e1.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x537c23b71d847eef947f150ac7e33b1854138d5c.sol: unrecognized expression
+Error in format_source_code for file Preprocessing/data/vulnerable/0x537c23b71d847eef947f150ac7e33b1854138d5c.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0xf767fca8e65d03fe16d4e38810f5e5376c3372a8.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0xf767fca8e65d03fe16d4e38810f5e5376c3372a8.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x2f561670d669a91607f53cbe114226f5c7e8d99d.sol: Object of type VariableDeclarationContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/vulnerable/0x2f561670d669a91607f53cbe114226f5c7e8d99d.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x16163229926aad97318fac28c8d06101954ad732.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0x16163229926aad97318fac28c8d06101954ad732.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0xda16251b2977f86cb8d4c3318e9c6f92d7fc1a8f.sol: maximum recursion depth exceeded
+Error in format_source_code for file Preprocessing/data/vulnerable/0xda16251b2977f86cb8d4c3318e9c6f92d7fc1a8f.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x143e8bd26d95b230680c25300f93ef56f86eccac.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0x143e8bd26d95b230680c25300f93ef56f86eccac.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x131a76478d2eef5ceaa28e93030eb8a8894ad811.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0x131a76478d2eef5ceaa28e93030eb8a8894ad811.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/vulnerable/0x8cbe659dcf03388ad6098b0bea656b0f2e4011ba.sol: decoding to str: need a bytes-like object, NoneType found
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x20d42f2e99a421147acf198d775395cac2e8b03d.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0x20d42f2e99a421147acf198d775395cac2e8b03d.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x08d698358b31ca6926e329879db9525504802abf.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0x08d698358b31ca6926e329879db9525504802abf.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x7d3ae940eb73dc9131758ad2e326c7d863b0916a.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0x7d3ae940eb73dc9131758ad2e326c7d863b0916a.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/vulnerable/0xd52b3a6fe8aa02fae5b4ffcddf36b53a89a1fec9.sol: ''
+Error in clean_source_code for file Preprocessing/data/vulnerable/0xcdd4984d4726b1cc51e692fb663f713ffb47ec0b.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0xcdd4984d4726b1cc51e692fb663f713ffb47ec0b.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x2de700d9fdb8b80af8cef9aa7c46f98304ff8bcd.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0x2de700d9fdb8b80af8cef9aa7c46f98304ff8bcd.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x096133503887a77e524f2690ba6aae2fa66b032c.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0x096133503887a77e524f2690ba6aae2fa66b032c.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x33a8ea1c8c6294c9f65f3dad7ca7f037bd09f951.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0x33a8ea1c8c6294c9f65f3dad7ca7f037bd09f951.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0xaacf5eca66aecc1ef36e7283b665aa9aac59a10f.sol: Object of type VariableDeclarationContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/vulnerable/0xaacf5eca66aecc1ef36e7283b665aa9aac59a10f.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x5d9b8fa00c16bcafae47deed872e919c8f6535bf.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0x5d9b8fa00c16bcafae47deed872e919c8f6535bf.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0xfe3672eff595cfd36ed05aaf4622d1aec3b5e852.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0xfe3672eff595cfd36ed05aaf4622d1aec3b5e852.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x876f2a2526c124fdc064b1401e72057db093421d.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0x876f2a2526c124fdc064b1401e72057db093421d.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x566c1023aaf10180b4eb9533050fbf91d7792af1.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0x566c1023aaf10180b4eb9533050fbf91d7792af1.sol: 'NoneType' object is not iterable
+Error in read_input_file for file Preprocessing/data/vulnerable/0x10c96243ece921bcd2481767f14e4910ef7494a4.sol: 'charmap' codec can't decode byte 0x81 in position 9124: character maps to <undefined>
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x10c96243ece921bcd2481767f14e4910ef7494a4.sol: expected string or bytes-like object
+Error in format_source_code for file Preprocessing/data/vulnerable/0x10c96243ece921bcd2481767f14e4910ef7494a4.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0xb98fdd97f3da105e6b166461afac208981bc786b.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0xb98fdd97f3da105e6b166461afac208981bc786b.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/vulnerable/0xb7bbf6d2f5372022cc07b6677a9eb49ce78da8c3.sol: ''
+Error in clean_source_code for file Preprocessing/data/vulnerable/0xbc425c4209bd4c3f1fc9686371513f13f72cc70a.sol: Object of type VariableDeclarationContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/vulnerable/0xbc425c4209bd4c3f1fc9686371513f13f72cc70a.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x80f1f62b8b365c5326100d462d8570771b8d0e57.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0x80f1f62b8b365c5326100d462d8570771b8d0e57.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0xe941e5d4a66123dc74886699544fbbb942f1887a.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0xe941e5d4a66123dc74886699544fbbb942f1887a.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0xe0aa1bedb5a5c94b304ace40fb90c3acb249ed7c.sol: 'NoneType' object has no attribute 'line'
+Error in format_source_code for file Preprocessing/data/vulnerable/0xe0aa1bedb5a5c94b304ace40fb90c3acb249ed7c.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x78b058ccda93816487c655367dcb79664a216ad2.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0x78b058ccda93816487c655367dcb79664a216ad2.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x6f3d1879cd84fa1a7eec7fe936af6a84b67f4567.sol: 'NoneType' object is not subscriptable
+Error in format_source_code for file Preprocessing/data/vulnerable/0x6f3d1879cd84fa1a7eec7fe936af6a84b67f4567.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0xba01aff9ef5198b5e691d2ac61e3cc126f25491d.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0xba01aff9ef5198b5e691d2ac61e3cc126f25491d.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x52cb4616e191ff664b0bff247469ce7b74579d1b.sol: Object of type VariableDeclarationContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/vulnerable/0x52cb4616e191ff664b0bff247469ce7b74579d1b.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0xae0680c49df146e18b2bc19635e5e402494b5d67.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0xae0680c49df146e18b2bc19635e5e402494b5d67.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x237f29bbfd52c768a02980ea8d4d983a1d234edc.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0x237f29bbfd52c768a02980ea8d4d983a1d234edc.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x83d904a2489bae727c1037469206891d8d058d92.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0x83d904a2489bae727c1037469206891d8d058d92.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x4b902704026d14117b5e9efa7fdafdff4ba610ef.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0x4b902704026d14117b5e9efa7fdafdff4ba610ef.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x4bd4afa9b213b5184c995aaef4982ce564121d20.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0x4bd4afa9b213b5184c995aaef4982ce564121d20.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x3686e7ec62d5694a8ac05f8f39fd5f632e2ff79b.sol: Object of type IdentifierContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/vulnerable/0x3686e7ec62d5694a8ac05f8f39fd5f632e2ff79b.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0xf1c1648f6f0edbcf7d898441b88e489cfaace11d.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0xf1c1648f6f0edbcf7d898441b88e489cfaace11d.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x14cc760862263df20e5b286d24a11b1dc1d37356.sol: 'NoneType' object has no attribute 'getText'
+Error in format_source_code for file Preprocessing/data/vulnerable/0x14cc760862263df20e5b286d24a11b1dc1d37356.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0xa7c5c9e2fef1c447e962a9eb3d1fc5012dfaa68e.sol: 'NoneType' object has no attribute 'getText'
+Error in format_source_code for file Preprocessing/data/vulnerable/0xa7c5c9e2fef1c447e962a9eb3d1fc5012dfaa68e.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xba5a6e8bbcda99932e86a0aa3f87ebdbe4b20c28.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0xc4216d17a72bd49e404fe396bb93c9cd8cf3e881.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xc4216d17a72bd49e404fe396bb93c9cd8cf3e881.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xc35aaea6dd561a9976e1745a22f8cc5a762354bb.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xf4f16983bfbceef567270c235e0cb964e4d42d77.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0x9e78ab50ddb57334c73f0475c0c5cf33417f238a.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x20b1bc618f79d9977b7cce3f0523128178ea6a7b.sol: Object of type VariableDeclarationContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0x20b1bc618f79d9977b7cce3f0523128178ea6a7b.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xa79b61c095aa277743f1789dedc6d259b467cb86.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x96e9ace417632353da8133f8471769c796641c30.sol: Object of type IdentifierContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0x96e9ace417632353da8133f8471769c796641c30.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xeb6985acd6d0cbff60b88032b0b29ac1d9d66a1b.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0xfbd9986b21fbc0d718d3999a640fe41391b5694d.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xfbd9986b21fbc0d718d3999a640fe41391b5694d.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xba5a6e8bbcda99932e86a0aa3f87ebdbe4b20c28.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0xc4216d17a72bd49e404fe396bb93c9cd8cf3e881.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xc4216d17a72bd49e404fe396bb93c9cd8cf3e881.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xc35aaea6dd561a9976e1745a22f8cc5a762354bb.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xf4f16983bfbceef567270c235e0cb964e4d42d77.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0x9e78ab50ddb57334c73f0475c0c5cf33417f238a.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x20b1bc618f79d9977b7cce3f0523128178ea6a7b.sol: Object of type VariableDeclarationContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0x20b1bc618f79d9977b7cce3f0523128178ea6a7b.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xa79b61c095aa277743f1789dedc6d259b467cb86.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x96e9ace417632353da8133f8471769c796641c30.sol: Object of type IdentifierContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0x96e9ace417632353da8133f8471769c796641c30.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xeb6985acd6d0cbff60b88032b0b29ac1d9d66a1b.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0xfbd9986b21fbc0d718d3999a640fe41391b5694d.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xfbd9986b21fbc0d718d3999a640fe41391b5694d.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0x2eb1e8fd394222df25638cfa8f0e5e7998a9dc1f.sol: unhashable type: 'dict'
+Error in format_source_code for file Preprocessing/data/Clean/0xcb6543e00067c096f10fe76c2effbf1d4c171dcf.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xabfaedd7f26ccee1490f9a030008786f17ff88fc.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x30bda231dbfa0f79b3b3678b2c6d4bae31055ad1.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x30bda231dbfa0f79b3b3678b2c6d4bae31055ad1.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xe278b85a36f6b370347d69fb4744947e2965c058.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xbcedc2e888e603d6fe6e15b797aa1c42ecf644f2.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xce8d17cd4d246905a2f7826f6ddb7effcaf7d16f.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xd2ade648d8bc4fc89dc763ae1984d00b611b0c4c.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xd8811b4d7e19f98cb476d80f1231f9708acb5b08.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x8a772004af0b8fca5e7093c6f277ba7b0e8fa97a.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x8a772004af0b8fca5e7093c6f277ba7b0e8fa97a.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0xb4921b74c089a8029ecd170e8edb2fc95425c20d.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xb4921b74c089a8029ecd170e8edb2fc95425c20d.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0xf5dce57282a584d2746faf1593d3121fcac444dc.sol: Object of type VariableDeclarationContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0xf5dce57282a584d2746faf1593d3121fcac444dc.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x12345678979f29ebc99e00bdc5693ddea564ca80.sol: Object of type VariableDeclarationContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0x12345678979f29ebc99e00bdc5693ddea564ca80.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0xae42990ad29747c9ab0c16098b8c5393e53c6abe.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xae42990ad29747c9ab0c16098b8c5393e53c6abe.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xee64bfd5676f7338c8e892c67e98341932efd3c7.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x6a3120d8a66fe96eb260cce4b6da02e7835b8426.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x6a3120d8a66fe96eb260cce4b6da02e7835b8426.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xe1d528e294e835329a461d8b398a82e7323641c8.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x66230ca3603e071c942f9c1c8824be91c91f3a90.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x66230ca3603e071c942f9c1c8824be91c91f3a90.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xd9d4a7ca154fe137c808f7eedbe24b639b7af5a6.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0xd6e33c11cff866162787b7198030aac101a61f29.sol: Object of type VariableDeclarationContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0xd6e33c11cff866162787b7198030aac101a61f29.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xa0a4a2af46af4cf37eacc495eedcae269ef2720e.sol: unhashable type: 'dict'
+Error in format_source_code for file Preprocessing/data/Clean/0xd68fbc1bde2d9ee90a19340685ba43bc3477f49e.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x7ec0a611e7d491fbeef62dbebbdb3e65e019bf9b.sol: Object of type VariableDeclarationContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0x7ec0a611e7d491fbeef62dbebbdb3e65e019bf9b.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xb0035b4edb8b2c907531fdcb204ffb52c4b4d8ed.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x9ce63a4e69de34844e340fc541d82db9506287bc.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x9ce63a4e69de34844e340fc541d82db9506287bc.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xc0a47dfe034b400b47bdad5fecda2621de6c4d95.sol: unhashable type: 'dict'
+Error in format_source_code for file Preprocessing/data/Clean/0xe75fa140f7c05077e05ffa0a9db227e32c80d5da.sol: unhashable type: 'dict'
+Error in format_source_code for file Preprocessing/data/Clean/0xc30affb2fdaf999bdd7ea205875b3fcad3da8d51.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0xb57acd47240599d0c68f14892dd05441af67e2d3.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xb57acd47240599d0c68f14892dd05441af67e2d3.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x6e7f987907320630b7880eecc26b17c0d9afa7b4.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x6e7f987907320630b7880eecc26b17c0d9afa7b4.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xbdc18219ebb537557dc0c78b119b5659c575666f.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0xed6ac8de7c7ca7e3a22952e09c2a2a1232ddef9a.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xed6ac8de7c7ca7e3a22952e09c2a2a1232ddef9a.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xb54a38a748c55a4e4c1b5aac6f56d6bf86e9cff1.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xb1e75d543ec0382370f7274dd830850a28c23095.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xcc69d7074c45cf464295f69a85f40ce11ba74069.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0x9f7c7ec1d32262911c19b257841eda5d0ffaaf5a.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0x44d2142f6f3686c5ca7dbdd7c9d8882c630a0b86.sol: unhashable type: 'dict'
+Error in clean_source_code for file Preprocessing/data/Clean/0xb5232102e71a7ff376ebdeae59e19d031cbe30af.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xb5232102e71a7ff376ebdeae59e19d031cbe30af.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0xc609b80c81d690b2ec39f70a5638fff8902a1d89.sol: Object of type VariableDeclarationContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0xc609b80c81d690b2ec39f70a5638fff8902a1d89.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0xf2b7fc7782dbf37bf964325fadaf5d91ec37221e.sol: 'Timed Out'
+Error in format_source_code for file Preprocessing/data/Clean/0xf2b7fc7782dbf37bf964325fadaf5d91ec37221e.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xe8d1617a07325c9d83e7e12b859a32d9b823cbb6.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xc7f4d43b6970db45c3461d20295da064b46becfd.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0xcfa8fa17f60d2b97104878dba2d461d10d8fdb78.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0xd71925058c255a991dd7a0fa8c100b447fd9db85.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xd71925058c255a991dd7a0fa8c100b447fd9db85.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xbbf0ae14af89b4f602ce47f157c8ed622b0bb7c1.sol: ''
+Error in format_source_code for file Preprocessing/data/Clean/0x9c3e7e016389661473ac64f4c37f5f7f2955e499.sol: ''
+Error in clean_source_code for file Preprocessing/data/Clean/0x3da62e9f68ee89fe8cedf8719755c679e596829c.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x3da62e9f68ee89fe8cedf8719755c679e596829c.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0xabbb6bebfa05aa13e908eaa492bd7a8343760477.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xabbb6bebfa05aa13e908eaa492bd7a8343760477.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0xb6db69e99f7e3ccb352fabde7d98a8fae0de4297.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0xb6db69e99f7e3ccb352fabde7d98a8fae0de4297.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x293c008e3060746f728ea59565b7a33dc68802be.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/Clean/0x293c008e3060746f728ea59565b7a33dc68802be.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/Clean/0x1ce00ddca2854ff2ddc7962575c49d2ba9c1243a.sol: Object of type IdentifierContext is not JSON serializable
+Error in format_source_code for file Preprocessing/data/Clean/0x1ce00ddca2854ff2ddc7962575c49d2ba9c1243a.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/Clean/0xc02246bad7660065ca3148c27e73265d5656dace.sol: ''
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x1d77340d3819007bbfd7fdd37c22bd3b5c311350.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0x1d77340d3819007bbfd7fdd37c22bd3b5c311350.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/vulnerable/0x7fccadee21660425fdec86029b6362845ffc052c.sol: ''
+Error in clean_source_code for file Preprocessing/data/vulnerable/0xf767fca8e65d03fe16d4e38810f5e5376c3372a8.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0xf767fca8e65d03fe16d4e38810f5e5376c3372a8.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x20d42f2e99a421147acf198d775395cac2e8b03d.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0x20d42f2e99a421147acf198d775395cac2e8b03d.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x2de700d9fdb8b80af8cef9aa7c46f98304ff8bcd.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0x2de700d9fdb8b80af8cef9aa7c46f98304ff8bcd.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x14cc760862263df20e5b286d24a11b1dc1d37356.sol: 'NoneType' object has no attribute 'getText'
+Error in format_source_code for file Preprocessing/data/vulnerable/0x14cc760862263df20e5b286d24a11b1dc1d37356.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x1d77340d3819007bbfd7fdd37c22bd3b5c311350.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0x1d77340d3819007bbfd7fdd37c22bd3b5c311350.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/vulnerable/0x7fccadee21660425fdec86029b6362845ffc052c.sol: ''
+Error in clean_source_code for file Preprocessing/data/vulnerable/0xf767fca8e65d03fe16d4e38810f5e5376c3372a8.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0xf767fca8e65d03fe16d4e38810f5e5376c3372a8.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x20d42f2e99a421147acf198d775395cac2e8b03d.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0x20d42f2e99a421147acf198d775395cac2e8b03d.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x2de700d9fdb8b80af8cef9aa7c46f98304ff8bcd.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0x2de700d9fdb8b80af8cef9aa7c46f98304ff8bcd.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x14cc760862263df20e5b286d24a11b1dc1d37356.sol: 'NoneType' object has no attribute 'getText'
+Error in format_source_code for file Preprocessing/data/vulnerable/0x14cc760862263df20e5b286d24a11b1dc1d37356.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x1d77340d3819007bbfd7fdd37c22bd3b5c311350.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0x1d77340d3819007bbfd7fdd37c22bd3b5c311350.sol: 'NoneType' object is not iterable
+Error in format_source_code for file Preprocessing/data/vulnerable/0x7fccadee21660425fdec86029b6362845ffc052c.sol: ''
+Error in clean_source_code for file Preprocessing/data/vulnerable/0xf767fca8e65d03fe16d4e38810f5e5376c3372a8.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0xf767fca8e65d03fe16d4e38810f5e5376c3372a8.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x20d42f2e99a421147acf198d775395cac2e8b03d.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0x20d42f2e99a421147acf198d775395cac2e8b03d.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x2de700d9fdb8b80af8cef9aa7c46f98304ff8bcd.sol: object of type 'NoneType' has no len()
+Error in format_source_code for file Preprocessing/data/vulnerable/0x2de700d9fdb8b80af8cef9aa7c46f98304ff8bcd.sol: 'NoneType' object is not iterable
+Error in clean_source_code for file Preprocessing/data/vulnerable/0x14cc760862263df20e5b286d24a11b1dc1d37356.sol: 'NoneType' object has no attribute 'getText'
+Error in format_source_code for file Preprocessing/data/vulnerable/0x14cc760862263df20e5b286d24a11b1dc1d37356.sol: 'NoneType' object is not iterable
