@@ -9,10 +9,20 @@ Generate a vocabulary tailored to the Solidity programming language for use with
 Clean unwanted blank spaces, line breaks, and comments from the dataset.
 Normalize contract names, modifier names, function names, and variable names with scope awareness. Standardize to a consistent format (e.g., VAR1, VAR2, FUN1, FUN2, ...).
 Utilize the solidity-parser module to create an Abstract Syntax Tree (AST) for easier scope access during normalization.
+## Folder Structure
+#### tokenization/
+extract_vocab.py: Script for extracting vocabulary from smart contracts.
+solidityLexer.g4: Grammar file for tokenizing Solidity code.
+#### dataset/
+This folder is designated for storing datasets of smart contracts used for training and testing the BERT model.
+#### Preprocessing/
+**contract_clean_and_format.py:** Script for cleaning and formatting smart contracts.
+**export_dataset.py:** Script for exporting the dataset in the required format.
+**filterFile.py:** Script for filtering smart contract files based on specific criteria.
+**error_log.txt:** Log file for recording errors encountered during the formatting and cleaning of contracts.
 
 ## Usage
 Run the script in different modes: train, predict, or eval. Below are the examples of how to use each mode.
-
 ### 1. Training Mode
 python3 run.py --mode train --dataset dataset/train_test_data.json
 ### 2. Prediction Mode
